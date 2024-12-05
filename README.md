@@ -1,1 +1,4 @@
-# Approach-to-the-separatrix-with-eccentric-orbits
+Approach to the separatrix with eccentric orbits
+by G. Compère and G. Lhost
+
+Companion notebooks of the arXiv preprint.
